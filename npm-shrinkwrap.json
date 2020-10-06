@@ -1,6 +1,6 @@
 {
-  "name": "ganache-core",
-  "version": "2.12.1",
+  "name": "@eth-optimism/ganache-core",
+  "version": "2.12.2",
   "lockfileVersion": 1,
   "requires": true,
   "dependencies": {
